@@ -5,8 +5,8 @@
 	typeVersion="0019B980-5ADC-71DF-9C5A-1C9DE0779704"
 	RuntimeDocumentID="00505601-DEA8-A1ED-A490-0297D7DC3B65">
 	<DocumentID>00505601-DEA8-A1ED-A490-0297D7DBFB65</DocumentID>
-	<Name>RC</Name>
-	<Description>RC</Description>
+	<Name>RC123</Name>
+	<Description>RC123</Description>
 	<CreatedBy>sysadmin</CreatedBy>
 	<CreationDate>2023-01-12T06:12:11.01</CreationDate>
 	<Notes/>
@@ -44,7 +44,7 @@
 	<SourceFolder>
 		<uri
 			id="00505601-DEA8-A1ED-A490-0297D7DE7B65"
-			path="RC"
+			path="RC123"
 			type="com.cordys.cws.runtime.types.folder.StudioFolder"
 		/>
 	</SourceFolder>
@@ -74,7 +74,7 @@
 					<Texts>
 						<uri
 							id="00505601-DEA8-A1ED-A490-0297D7DDFB65"
-							path="RC/en-US_00505601-DEA8-A1ED-A490-0297D7DDFB65"
+							path="RC123/en-US_00505601-DEA8-A1ED-A490-0297D7DDFB65"
 							type="com.cordys.cws.associations.MergeableAssociation"
 						/>
 					</Texts>
@@ -93,7 +93,7 @@
 			<Texts>
 				<uri
 					id="00505601-DEA8-A1ED-A490-0297D7DCFB65"
-					path="RC/TranslationInformation_00505601-DEA8-A1ED-A490-0297D7DCFB65"
+					path="RC123/TranslationInformation_00505601-DEA8-A1ED-A490-0297D7DCFB65"
 					type="com.cordys.cws.associations.MergeableAssociation"
 				/>
 			</Texts>
