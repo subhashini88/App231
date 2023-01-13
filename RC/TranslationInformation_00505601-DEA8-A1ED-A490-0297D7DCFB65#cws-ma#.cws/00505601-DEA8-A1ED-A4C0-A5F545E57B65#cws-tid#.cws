@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="00505601-DEA8-A1ED-A4C0-A5F545E5BB65">
+	<DocumentID>00505601-DEA8-A1ED-A4C0-A5F545E57B65</DocumentID>
+	<Name>00505601-DEA8-A1ED-A4C0-A5F545E57B65</Name>
+	<Description>SS1212</Description>
+	<CreatedBy>sysadmin</CreatedBy>
+	<CreationDate>2023-01-13T05:45:57.092</CreationDate>
+	<Notes/>
+	<DefaultText>SS1212</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="00505601-DEA8-A1ED-A490-0297D7DC7B65"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="00505601-DEA8-A1ED-A4C0-A5F545E5FB65"
+		/>
+	</Translations>
+</TextIdentifier>
